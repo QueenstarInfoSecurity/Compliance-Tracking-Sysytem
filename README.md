@@ -19,11 +19,40 @@ Designed to be simple, extendable, and usable as a CLI or intergrated into a web
 # Setup
 
 ```bash
-git clone https://github.com/Queenstar1/Compliance-Tracking-Sysytem.git
+git clone 
 cd compliance-tracker
 python tracker.py.
-```bash
+```
 
+# Output
+ -  Logs entries in db/compliance.db
+ -  Generates a report at reports/compliance_report.json
 
+# Sample Report Output
 
+```json
+[
+    [1, "GDPR - Data Encryption", "Compliant", "2025-04-22 14:35:12"],
+    [2, "ISO 27001 - Access Control", "Non-Compliant", "2025-04-22 14:36:01"]
+]
+```
+
+# Roadmap
+ - Add CLI interface for manual logging and querying
+ - Build interactive web dashboard
+ - Add logging to logs/ for audit trails
+ - Support importing/ exporting compliance checklists
+ - Email alerts for non-compliance
+   
+# Contributing
+Welcome contributions! If you would like to help with development, suggest features, or report issues:
+1. Fork the repo
+2. Create a new branch
+3. Submit a pull request with a clear description
+
+# Feedback
+Found a bug or want a feature? Open an issue - I love to hear from you.
+
+Let me know if you want a Markdown file version of this, or help setting up the web interface or CLI next.   
+  
    
