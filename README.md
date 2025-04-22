@@ -13,7 +13,7 @@ Designed to be simple, extendable, and usable as a CLI or intergrated into a web
  - Easy to customize and deploy
 
 # Prerequisities
- - Python 3.7 or higher
+ - Python 3.13.0 or higher
  - No external dependencies required
 
 # Setup
