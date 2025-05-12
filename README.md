@@ -49,6 +49,12 @@ Welcome contributions! If you would like to help with development, suggest featu
 1. Fork the repo
 2. Create a new branch
 3. Submit a pull request with a clear description
+   
+## License
+ This project is licensed under the MIT License.
+ 
+## ** Disclaimer:**
+This project is provided **as is**, without any warranties or guarantees. The author assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.
 
 # Feedback
 Found a bug or want a feature? Open an issue - I love to hear from you.
